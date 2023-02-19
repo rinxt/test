@@ -1,3 +1,4 @@
 # Hello world!
 
-# I study C++ in Netology
+I study C++ in Netology
+
